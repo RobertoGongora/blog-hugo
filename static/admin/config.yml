@@ -1,4 +1,5 @@
 site_url: https://gongora.xyz
+display_url: https://gongora.xyz
 locale: es
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
