@@ -1,9 +1,9 @@
 site_url: https://gongora.xyz
-display_url: https://gongora.xyz
 locale: es
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
+show_preview_links: false
 
 backend:
   name: git-gateway
